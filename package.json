@@ -1,13 +1,13 @@
 {
-  "name": "logar-curator",
-  "version": "1.0.1",
+  "name": "logar-curator-aws-es",
+  "version": "1.1.0",
   "description": "Lambda function that curates indices in an Elasticsearch cluster",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/everydayhero/logar-curator",
-  "author": "Marty Zalega <marty@zalega.me>",
+  "homepage": "https://github.com/tot0/logar-curator/tree/aws-es-npm",
+  "author": "Lucas Pickup <lucas.tot0.pickup@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "elasticsearch": "^10.1.3",

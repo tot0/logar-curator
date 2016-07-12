@@ -1,5 +1,5 @@
-# logar-curator
+# logar-curator-aws-es
 
-Lambda function that curates indices in an Elasticsearch cluster
+Lambda function that curates indices in an Elasticsearch cluster, with added support for AWS ES.
 
-Used by [Logar](https://github.com/everydayhero/logar)
+Forked from [logar-curator](https://github.com/everydayhero/logar-curator)
